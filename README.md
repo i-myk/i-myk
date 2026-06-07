@@ -36,23 +36,6 @@ My experience includes:
 
 ## Featured Projects
 
-### 🚀 GitHub Analytics ELT Pipeline
-
-Built an end-to-end ELT pipeline using:
-
-- GitHub API
-- Fivetran
-- BigQuery
-- dbt
-- Looker Studio
-
-Key features:
-
-- Automated data ingestion
-- Data modeling with dbt
-- Analytics-ready warehouse
-- Interactive dashboard
-
 - ### 🚀 GitHub Analytics ELT Pipeline
 
 Built an end-to-end ELT pipeline using:
