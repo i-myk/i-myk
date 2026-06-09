@@ -1,6 +1,6 @@
 # Hi, I'm Igor Mykoliv 👋
 
-### Data Analyst | SQL | BigQuery | Snowflake | dbt | Tableau | Power BI
+### Data Analyst | Marketing Analytics | SQL | BigQuery | Snowflake | dbt | Tableau | Power BI
 
 📍 Greater Chicago Area
 
@@ -10,87 +10,58 @@
 
 ## About Me
 
-I help businesses make data-driven decisions by building scalable data models, KPI frameworks, dashboards, and analytics solutions.
+## About Me
 
-My experience includes:
-- Marketing Analytics
-- Product Analytics
-- Sales Analytics
-- Operations Analytics
-- Data Modeling
-- Business Intelligence
+Data Analyst with 6+ years of experience in Marketing, Sales, Product, and Operations Analytics.
+
+Experienced in building scalable data models, KPI frameworks, reporting solutions, and analytics workflows using SQL, BigQuery, Snowflake, dbt, Tableau, Power BI, and Looker Studio.
+
+Skilled at transforming complex business requirements into actionable insights, partnering with cross-functional stakeholders, and driving business performance through data-driven decision making.
 
 ---
 
 ## Tech Stack
 
 - SQL
+- Python
 - BigQuery
 - Snowflake
 - dbt
+- Fivetran
 - Tableau
 - Power BI
 - Looker Studio
-- Python
 - Git & GitHub
+- Google Analytics
+- Salesforce
+- HubSpot
 
 ## Featured Projects
 
-- ### 🚀 GitHub Analytics ELT Pipeline
+### 🚀 GitHub Analytics ELT Pipeline
 
-Built an end-to-end ELT pipeline using:
+End-to-end ELT project built using GitHub API, Fivetran, BigQuery, dbt, and Looker Studio.
 
-- GitHub API
-- Fivetran
-- BigQuery
-- dbt
-- Looker Studio
+Highlights:
+- Automated GitHub data ingestion
+- Data transformation with dbt
+- Analytics-ready data models
+- Interactive BI dashboard
+- KPI tracking for repository activity and contributors
 
-Key features:
+### 📊 Cross-Channel Marketing Analytics Dashboard
 
-- Automated data ingestion
-- Data modeling with dbt
-- Analytics-ready warehouse
-- Interactive dashboard
+Marketing analytics project built using SQL, BigQuery, and Looker Studio.
 
-Outcome:
-
-- Tracked repository activity and contributor performance
-- Automated reporting workflow
-- Delivered actionable insights through BI dashboards
-
----
-
-### 📈 Marketing Performance Analytics Dashboard
-
-Cross-channel marketing analytics project.
-
-Tech Stack:
-
-- BigQuery
-- SQL
-- Looker Studio
-
-Features:
-
-- Facebook Ads integration
-- Google Ads integration
-- TikTok Ads integration
-- CTR, CPC, CPA, ROAS calculations
-- Campaign performance analysis
-- Channel performance analysis
-
-- Outcome:
-
-- Created a single source of truth for marketing performance
-- Enabled cross-channel campaign comparison
-- Improved visibility into advertising efficiency
-
+Highlights:
+- Facebook Ads, Google Ads, and TikTok Ads integration
+- Data standardization and validation
+- KPI calculations (CTR, CPC, CPA, ROAS)
+- Campaign and channel performance analysis
+- Interactive dashboard for marketing stakeholders
 - ---
 
-## Contact
 
-📧 mykoliv@gmail.com
 
 🔗 LinkedIn:
 https://linkedin.com/in/igor-mykoliv
