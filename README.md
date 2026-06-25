@@ -25,10 +25,13 @@ Skilled at transforming complex business requirements into actionable insights, 
 
 ---
 
+---
 ## 📊 Cross-Channel Marketing Analytics Dashboard
 
 🔗 [GitHub Repository](https://github.com/i-myk/marketing-analytics-dashboard)  
 📊 [Live Dashboard](https://datastudio.google.com/reporting/6b6d395a-a1e4-4fa3-89a5-08570f36a910)
+
+---
 
 ---
 ## Tech Stack
