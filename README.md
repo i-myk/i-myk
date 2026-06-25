@@ -40,7 +40,7 @@ Skilled at transforming complex business requirements into actionable insights, 
 
 **Transformation & ELT:** dbt, Fivetran
 
-**BI & Visualization:** Tableau, Power BI, Looker Studio
+**BI & Visualization:** Tableau, Power BI, Looker Studio, Sigma
 
 **Analytics & CRM:** Google Analytics, Salesforce, HubSpot
 
