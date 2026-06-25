@@ -2,7 +2,8 @@
 
 ### Data Analyst | Marketing Analytics | SQL | BigQuery | Snowflake | dbt | Tableau | Power BI
 
-📍 Greater Chicago Area   🔗 LinkedIn:  https://linkedin.com/in/igor-mykoliv
+📍 Greater Chicago Area   
+🔗 LinkedIn:  https://linkedin.com/in/igor-mykoliv
 
 📊 6+ years of experience in Marketing, Sales, Product, and Operations Analytics
 
@@ -20,10 +21,12 @@ Skilled at transforming complex business requirements into actionable insights, 
 ### 🚀 GitHub Analytics ELT Pipeline
 
 🔗 GitHub Repository: https://github.com/i-myk/github-analytics-elt-pipeline
+
 📊 Dashboard: https://datastudio.google.com/reporting/7478f0af-71f2-464e-accb-4e4e010b19a9
 
 ### 📊 Cross-Channel Marketing Analytics Dashboard
 🔗 GitHub Repository: https://github.com/i-myk/marketing-analytics-dashboard
+
 📊 Dashboard: https://datastudio.google.com/reporting/6b6d395a-a1e4-4fa3-89a5-08570f36a910
 
 ---
