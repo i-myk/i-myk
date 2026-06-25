@@ -23,7 +23,6 @@ Skilled at transforming complex business requirements into actionable insights, 
 🔗 [GitHub Repository](https://github.com/i-myk/github-analytics-elt-pipeline)  
 📊 [Live Dashboard](https://datastudio.google.com/reporting/7478f0af-71f2-464e-accb-4e4e010b19a9)
 
----
 
 ---
 ## 📊 Cross-Channel Marketing Analytics Dashboard
@@ -31,7 +30,6 @@ Skilled at transforming complex business requirements into actionable insights, 
 🔗 [GitHub Repository](https://github.com/i-myk/marketing-analytics-dashboard)  
 📊 [Live Dashboard](https://datastudio.google.com/reporting/6b6d395a-a1e4-4fa3-89a5-08570f36a910)
 
----
 
 ---
 ## Tech Stack
