@@ -18,16 +18,17 @@ Experienced in building scalable data models, KPI frameworks, reporting solution
 Skilled at transforming complex business requirements into actionable insights, partnering with cross-functional stakeholders, and driving business performance through data-driven decision making.
 
 ---
-### 🚀 GitHub Analytics ELT Pipeline
+## 🚀 GitHub Analytics ELT Pipeline
 
-🔗 GitHub Repository: https://github.com/i-myk/github-analytics-elt-pipeline
+🔗 [GitHub Repository](https://github.com/i-myk/github-analytics-elt-pipeline)  
+📊 [Live Dashboard](https://datastudio.google.com/reporting/7478f0af-71f2-464e-accb-4e4e010b19a9)
 
-📊 Dashboard: https://datastudio.google.com/reporting/7478f0af-71f2-464e-accb-4e4e010b19a9
+---
 
-### 📊 Cross-Channel Marketing Analytics Dashboard
-🔗 GitHub Repository: https://github.com/i-myk/marketing-analytics-dashboard
+## 📊 Cross-Channel Marketing Analytics Dashboard
 
-📊 Dashboard: https://datastudio.google.com/reporting/6b6d395a-a1e4-4fa3-89a5-08570f36a910
+🔗 [GitHub Repository](https://github.com/i-myk/marketing-analytics-dashboard)  
+📊 [Live Dashboard](https://datastudio.google.com/reporting/6b6d395a-a1e4-4fa3-89a5-08570f36a910)
 
 ---
 ## Tech Stack
